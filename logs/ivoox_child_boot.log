@@ -1,0 +1,34 @@
+2026-05-03 22:47:17 | INFO | ===== IVOOX GUI REAL INSTANCE BOOT =====
+2026-05-03 22:47:17 | INFO | marker=IVOOX_PODCAST_DOWNLOADER
+2026-05-03 22:47:17 | INFO | start_hidden=False
+2026-05-03 22:47:17 | INFO | sys.executable=C:\Users\Julio\anaconda3\envs\GEOF\pythonw.exe
+2026-05-03 22:47:17 | INFO | ROOT=C:\Users\Julio\Downloads\IVOX_PODCAST_DOWNLOADER_V7
+2026-05-03 22:47:17 | INFO | pidfile=C:\Users\Julio\AppData\Local\iVooxDownloader\pids\IVOOX_PODCAST_DOWNLOADER.pid
+2026-05-03 22:47:17 | INFO | Configurando AppUserModelID de Windows...
+2026-05-03 22:47:17 | INFO | Configurando rutas/plugins Qt antes de QApplication...
+2026-05-03 22:47:17 | INFO | [QT] addLibraryPath: C:\Users\Julio\anaconda3\envs\GEOF\Library\lib\qt6\plugins
+2026-05-03 22:47:17 | INFO | [QT] addLibraryPath: C:\Users\Julio\anaconda3\envs\GEOF\Library\plugins
+2026-05-03 22:47:17 | INFO | [QT] addLibraryPath: C:\Users\Julio\anaconda3\envs\GEOF\Library\lib\qt6\plugins
+2026-05-03 22:47:17 | INFO | [QT] addLibraryPath: C:\Users\Julio\anaconda3\envs\GEOF\Library\plugins
+2026-05-03 22:47:17 | INFO | [QT] addLibraryPath: C:\Users\Julio\anaconda3\envs\GEOF\Library\lib\qt6\plugins
+2026-05-03 22:47:17 | INFO | [QT] libraryPaths=['C:/Users/Julio/anaconda3/envs/GEOF/Library/plugins', 'C:/Users/Julio/anaconda3/envs/GEOF/Library/lib/qt6/plugins']
+2026-05-03 22:47:17 | INFO | [QT] supportedImageFormats=['bmp', 'cur', 'gif', 'ico', 'jfif', 'jpeg', 'jpg', 'pbm', 'pdf', 'pgm', 'png', 'ppm', 'svg', 'svgz', 'xbm', 'xpm']
+2026-05-03 22:47:17 | INFO | Creando QApplication...
+2026-05-03 22:47:18 | INFO | Revisando rutas/plugins Qt despues de QApplication...
+2026-05-03 22:47:18 | INFO | [QT] addLibraryPath: C:\Users\Julio\anaconda3\envs\GEOF\Library\lib\qt6\plugins
+2026-05-03 22:47:18 | INFO | [QT] addLibraryPath: C:\Users\Julio\anaconda3\envs\GEOF\Library\plugins
+2026-05-03 22:47:18 | INFO | [QT] addLibraryPath: C:\Users\Julio\anaconda3\envs\GEOF\Library\lib\qt6\plugins
+2026-05-03 22:47:18 | INFO | [QT] addLibraryPath: C:\Users\Julio\anaconda3\envs\GEOF\Library\plugins
+2026-05-03 22:47:18 | INFO | [QT] addLibraryPath: C:\Users\Julio\anaconda3\envs\GEOF\Library\lib\qt6\plugins
+2026-05-03 22:47:18 | INFO | [QT] libraryPaths=['C:/Users/Julio/anaconda3/envs/GEOF/Library/plugins', 'C:/Users/Julio/anaconda3/envs/GEOF/Library/lib/qt6/plugins', 'C:/Users/Julio/Downloads/IVOX_PODCAST_DOWNLOADER_V7']
+2026-05-03 22:47:18 | INFO | [QT] supportedImageFormats=['bmp', 'cur', 'gif', 'ico', 'jfif', 'jpeg', 'jpg', 'pbm', 'pdf', 'pgm', 'png', 'ppm', 'svg', 'svgz', 'xbm', 'xpm']
+2026-05-03 22:47:18 | INFO | [THUMB] decoder_policy=qt_first. Motivo: Qt reporta soporte JPEG/JPG/JFIF. formats=['bmp', 'cur', 'gif', 'ico', 'jfif', 'jpeg', 'jpg', 'pbm', 'pdf', 'pgm', 'png', 'ppm', 'svg', 'svgz', 'xbm', 'xpm']
+2026-05-03 22:47:18 | INFO | Icono app cargado: C:\Users\Julio\Downloads\IVOX_PODCAST_DOWNLOADER_V7\assets\ivoox_downloader.ico
+2026-05-03 22:47:18 | INFO | Creando MainWindow...
+2026-05-03 22:47:20 | INFO | MainWindow creada. tray_icon=True visible=True
+2026-05-03 22:47:24 | INFO | [SHOW] Foreground request ejecutado.
+2026-05-03 22:47:24 | INFO | Ventana programada para abrir visible en primer plano.
+2026-05-03 22:47:24 | INFO | Entrando a app.exec()...
+2026-05-03 22:47:24 | INFO | [SHOW] Foreground request ejecutado.
+2026-05-03 22:47:25 | INFO | [SHOW] Foreground request ejecutado.
+2026-05-03 22:49:17 | INFO | GUI finalizada con rc=0

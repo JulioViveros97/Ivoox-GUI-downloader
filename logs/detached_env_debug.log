@@ -1,0 +1,5 @@
+==== 2026-05-04T02:47:10+00:00 ==== 
+CONDA_PREFIX=C:\Users\Julio\anaconda3\envs\GEOF 
+QT_PLUGIN_PATH=C:\Users\Julio\anaconda3\envs\GEOF\Library\plugins;C:\Users\Julio\anaconda3\envs\GEOF\Library\lib\qt6\plugins 
+QT_QPA_PLATFORM_PLUGIN_PATH=C:\Users\Julio\anaconda3\envs\GEOF\Library\plugins\platforms;C:\Users\Julio\anaconda3\envs\GEOF\Library\lib\qt6\plugins\platforms 
+IVOOX_QT_IMAGEFORMATS_PATHS=C:\Users\Julio\anaconda3\envs\GEOF\Library\plugins\imageformats;C:\Users\Julio\anaconda3\envs\GEOF\Library\lib\qt6\plugins\imageformats 

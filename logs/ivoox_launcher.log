@@ -1,0 +1,27 @@
+2026-05-04T02:47:05Z | INFO | ===== IVOOX LAUNCH REQUEST =====
+2026-05-04T02:47:05Z | INFO | script=C:\Users\Julio\Downloads\IVOX_PODCAST_DOWNLOADER_V7\run_gui.py
+2026-05-04T02:47:05Z | INFO | marker=IVOOX_PODCAST_DOWNLOADER
+2026-05-04T02:47:05Z | INFO | sys.executable=C:\Users\Julio\anaconda3\envs\GEOF\python.exe
+2026-05-04T02:47:05Z | INFO | cwd=C:\Users\Julio\Downloads\IVOX_PODCAST_DOWNLOADER_V7
+2026-05-04T02:47:05Z | INFO | prefer_schtasks=True, start_hidden=False
+2026-05-04T02:47:10Z | DEBUG | find_pid_by_marker rc=0 raw='\r\nProcessId CommandLine                                                                                                  \r\n--------- -----------                                                                                                  \r\n    14664 powershell -NoProfile -NonInteractive -Command "[Console]::OutputEncoding=[System.Text.Encoding]::UTF8; $m...\r\n\r\n\r\n'
+2026-05-04T02:47:10Z | DEBUG | pythonw.exe vecino a sys.executable -> C:\Users\Julio\anaconda3\envs\GEOF\pythonw.exe
+2026-05-04T02:47:10Z | INFO | pythonw resuelto: C:\Users\Julio\anaconda3\envs\GEOF\pythonw.exe
+2026-05-04T02:47:10Z | INFO | conda_prefix_inferido_desde_pythonw: C:\Users\Julio\anaconda3\envs\GEOF
+2026-05-04T02:47:10Z | DEBUG | last command escrito en C:\Users\Julio\Downloads\IVOX_PODCAST_DOWNLOADER_V7\logs\last_ivoox_command.bat
+2026-05-04T02:47:10Z | INFO | [SPAWN] schtasks principal task=IVOOX_PODCAST_DOWNLOADER_RUN
+2026-05-04T02:47:10Z | INFO | [SPAWN] comando intermedio=C:\Users\Julio\Downloads\IVOX_PODCAST_DOWNLOADER_V7\logs\run_IVOOX_PODCAST_DOWNLOADER_detached.cmd
+2026-05-04T02:47:10Z | DEBUG | [SPAWN] schtasks /TR length=63 tr=cmd.exe /c "C:\Users\Julio\DOWNLO~1\IVOX_P~1\logs\RUN_IV~1.CMD"
+2026-05-04T02:47:11Z | DEBUG | schtasks /Create rc=0 out='Correcto: se creó correctamente la tarea programada "IVOOX_PODCAST_DOWNLOADER_RUN".' err='ADVERTENCIA: no puede ejecutarse la tarea porque /ST es anterior a la hora actual.'
+2026-05-04T02:47:11Z | DEBUG | schtasks /Run rc=0 out='CORRECTO: se ha intentado ejecutar la tarea programada "IVOOX_PODCAST_DOWNLOADER_RUN".' err=''
+2026-05-04T02:47:12Z | DEBUG | find_pid_by_marker rc=0 raw='\r\nProcessId CommandLine                                                                                                  \r\n--------- -----------                                                                                                  \r\n    14872 powershell -NoProfile -NonInteractive -Command "[Console]::OutputEncoding=[System.Text.Encoding]::UTF8; $m...\r\n    12344 "C:\\Users\\Julio\\anaconda3\\envs\\GEOF\\pythonw.exe"  "C:\\Users\\Julio\\Downloads\\IVOX_PODCAST_DOWNLOADER_V7\\run...\r\n\r\n\r\n'
+2026-05-04T02:47:13Z | DEBUG | schtasks /Delete rc=0
+2026-05-04T02:47:13Z | INFO | Instancia detached iniciada correctamente. PID=12344 via schtasks.
+2026-05-04T02:47:13Z | INFO | Launcher OK: Instancia detached iniciada correctamente. PID=12344 via schtasks.
+2026-05-04T02:47:17Z | INFO | ===== IVOOX GUI REAL INSTANCE =====
+2026-05-04T02:47:17Z | INFO | marker=IVOOX_PODCAST_DOWNLOADER
+2026-05-04T02:47:17Z | INFO | start_hidden=False
+2026-05-04T02:47:17Z | INFO | sys.executable=C:\Users\Julio\anaconda3\envs\GEOF\pythonw.exe
+2026-05-04T02:47:17Z | INFO | ROOT=C:\Users\Julio\Downloads\IVOX_PODCAST_DOWNLOADER_V7
+2026-05-04T02:47:17Z | INFO | pidfile=C:\Users\Julio\AppData\Local\iVooxDownloader\pids\IVOOX_PODCAST_DOWNLOADER.pid
+2026-05-04T02:49:17Z | INFO | GUI finalizada con rc=0

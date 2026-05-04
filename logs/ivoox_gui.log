@@ -1,0 +1,11 @@
+22:47:20 [INFO] [SYSTEM] CPU lógica detectada: 4. Workers sugeridos al iniciar: pages=3, enrich=4. Motivo: hardware local: tareas I/O-bound, limites conservadores.
+22:47:20 [INFO] [SYSTEM] Autoajuste activo: esos valores son máximos; durante el escaneo se refinan con la latencia real de iVoox y señales de error HTTP.
+22:47:20 [INFO] [TRAY] System tray disponible: True
+22:47:20 [INFO] [TRAY] Icono inicializado. visible=True, icon_null=False
+22:47:20 [INFO] [GUI] MainWindow inicializada correctamente.
+22:47:24 [INFO] [GUI] Ventana inicial mostrada en primer plano.
+22:47:24 [INFO] [GUI] Ventana inicial mostrada en primer plano.
+22:47:25 [INFO] [GUI] Ventana inicial mostrada en primer plano.
+22:47:26 [INFO] [GUI] closeEvent interceptado: ventana oculta en bandeja.
+22:47:26 [INFO] [NOTIFY] iVoox Downloader sigue activo: La aplicación sigue ejecutándose en segundo plano. Usa el icono de bandeja para restaurarla o salir definitivamente.
+22:49:17 [INFO] [TRAY] Salida definitiva solicitada por el usuario.
