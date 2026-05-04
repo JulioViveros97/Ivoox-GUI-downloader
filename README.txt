@@ -5,6 +5,9 @@ Descripcion breve
 -----------------
 iVoox Podcast Downloader es una aplicacion de escritorio en Python orientada a descubrir, ordenar, previsualizar y descargar episodios de podcasts desde iVoox.
 
+SE BUSCA COLABORACIÓN: El codigo ya es funcional, pero no sé como transformarlo a un .exe mas sencillo de compartir. Contactar a junvc97@gmail.com
+
+
 El modulo permite:
 
 - Escanear paginas de episodios de un podcast de iVoox.
